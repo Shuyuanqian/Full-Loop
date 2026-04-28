@@ -1,0 +1,6 @@
+{
+  "name": "试卷定位分析助手",
+  "description": "理科学习场景下的试卷分层诊断与逻辑修复教练",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["AI-powered exam analysis", "Layered diagnosis", "Logical breakpoint positioning"]
+}
